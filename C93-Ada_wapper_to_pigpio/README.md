@@ -14,6 +14,6 @@ For pigpio C interface, see http://abyz.me.uk/rpi/pigpio/cif.html
 
 ## 2. Installing slarm64 on Raspberry Pi 3 and Virtual Development Environment
 
-This booklet was also publilshed on December 29, 2017 and witten by "kaokun". The author explains how to install slarm64 (*unofficial* but **64-bit** variant of slackwarearm) on Raspberry Pi 3 and virtual develepment environment for it as well. as well. Scripts and related files are freely available for those who purchased this booklet. 
+This booklet was also publilshed on December 29, 2017 and witten by "kaokun". The author explains how to install slarm64 (*unofficial* but **64-bit** variant of slackwarearm) on Raspberry Pi 3 and virtual develepment environment for it as well. Scripts and related files are freely available for those who purchased this booklet. 
 
 > Commented by Kasumi YOSHINO a.k.a. JA1UMI
