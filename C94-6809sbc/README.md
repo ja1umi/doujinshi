@@ -2,7 +2,7 @@
 
 ## 1. Technical memorandum on MUTIF09 6809 Single Board Computer
 
-This booklet describes my work building a Motolora 6809-based single board computer named "MUTIF09 6809 SBC". It will be available on August 10, 2018 at Comic Market 94, held at TOKYO BIG SIGHT, Ariake, Tokyo, Japan (West hall Booth# も19a). 
+This booklet describes my work building a Motolora 6809-based single board computer (I named it "MUTIF09 6809 SBC"). It will be available on August 10, 2018 at Comic Market 94, held at TOKYO BIG SIGHT, Ariake, Tokyo, Japan (West hall Booth# も19a). 
 
 ## 1-1. Design materials
 
