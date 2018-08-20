@@ -6,7 +6,7 @@
 
 ## 1-1. Design materials
 
-You can download the latest version of design materials (schematic(s), PCB design data, Gerber files, Source codes and so on) at the following site:  https://github.com/ja1umi/MUTIF09 (coming soon)
+You can download the latest version of design materials (schematic(s), PCB design data, Gerber files, Source codes and so on) at the following site:  https://github.com/ja1umi/MUTIF09
 
 ## 2. Black Telephone Interface by using Raspberry Pi
 
