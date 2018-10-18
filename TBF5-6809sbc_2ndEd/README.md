@@ -1,8 +1,8 @@
-# Newly-published _Doujinshis_ (at TechBookFest 5)
+# Newly-published _Doujinshi(s)_ (at TechBookFest 5)
 
 ## 1. Technical memorandum on MUTIF09 6809 Single Board Computer (2018.10.8 edition)
 
- This booklet describes my work building a Motolora 6809-based single board computer (I named it "MUTIF09 6809 SBC"). It was publishedon October 8, 2018 at TechBookFest 5, held at IKEBUKURO SUNSHINE CITY Exhibition hall D, Tokyo, Japan (Booth# け14). 
+ This booklet describes my work for building a Motolora 6809-based single board computer (I named it "MUTIF09 6809 SBC"). It was publishedon October 8, 2018 at TechBookFest 5, held at IKEBUKURO SUNSHINE CITY Exhibition hall D, Tokyo, Japan (Booth# け14). 
 
  This booklet supersedes the previous edition dated August 10, 2018 and it is now available for a fee at:  https://m-nihombashi.booth.pm/items/1045431
 
