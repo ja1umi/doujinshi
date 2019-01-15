@@ -1,0 +1,3 @@
+# **I**nv**A**da : *Digital Invader* clone in Ada for Raspberry Pi
+
+I wrote a *Digital Invader* clone in Ada 2012 for Raspberry Pi as an exapmple of usage of my Ada wrapper to the pigpio library (Pigpio_Ada). Roland SC-55mk2 Sound Canvas (MIDI Synthesizer) was used for generating sound effects and for displaying characters/messages. For this purpose, I also wrote a small MIDI library built on on top of the Pigpio_Ada wrapper. 
